@@ -13,6 +13,8 @@ import operacionejecicio.Suma;
 // Rama_testeo instantanea 3
 
 class TestOperaciones {
+	// Rama_testeo instantanea 4
+	private int resultado;
 	private static Suma suma;
 	private static Resta resta;
 	@BeforeAll
