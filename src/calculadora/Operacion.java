@@ -1,5 +1,5 @@
 package calculadora;
-
+// instantanea 1
 
 public class Operacion {
 	// atributos
