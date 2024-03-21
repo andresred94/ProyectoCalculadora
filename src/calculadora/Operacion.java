@@ -4,7 +4,7 @@ package calculadora;
 // Instantanea 3 
 // instantanea 4
 // instantanea 5
-
+// Rama_desarrollo instantanea 1
 public class Operacion {
 	// atributos
 	private int valor1;
