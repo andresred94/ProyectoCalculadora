@@ -2,6 +2,7 @@ package calculadora;
 // instantanea 1
 // instantanea 2
 // Instantanea 3 
+// instantanea 4
 
 public class Operacion {
 	// atributos
