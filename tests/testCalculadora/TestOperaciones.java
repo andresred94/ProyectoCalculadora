@@ -8,8 +8,13 @@ import org.junit.jupiter.params.provider.CsvSource;
 
 import operacionejecicio.Resta;
 import operacionejecicio.Suma;
+// Rama_testeo instantanea 1 
+// Rama_testeo instantanea 2
+// Rama_testeo instantanea 3
+
 class TestOperaciones {
-	// rama_desarrollo instantanea 4
+	// Rama_testeo instantanea 4
+	private int resultado;
 	private static Suma suma;
 	private static Resta resta;
 	@BeforeAll
