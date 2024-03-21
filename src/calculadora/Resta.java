@@ -1,5 +1,5 @@
 package calculadora;
-
+// Instantanea 1
 
 public class Resta extends Operacion {
 	public void operar() {
