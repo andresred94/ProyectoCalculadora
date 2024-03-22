@@ -7,6 +7,7 @@ package calculadora;
 // Rama_desarrollo instantanea 1
 // Rama_desarrollo instantanea 2
 // Rama_desarrollo instantanea 3
+//primera modificación del proyecto de Andrés 
  
 public class Operacion {
 	// atributos
